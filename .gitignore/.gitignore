@@ -1,0 +1,14 @@
+
+ Number1 =  input("input a number")
+ Number2 = input("input a second number") 
+
+
+   
+
+
+ If number1 > number2:
+      Print(number 1 "is the bigger number") 
+ Elif number1 < number2: 
+      Print("number2 "is bigger the bigger number") 
+ Elif number1 == number2 :  
+      Print("both numbers are equal") 
